@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Eeprom_example\bin\Debug\Eeprom_example.exe.config
-C:\Users\Admin\source\repos\Eeprom_example\bin\Debug\Eeprom_example.exe
-C:\Users\Admin\source\repos\Eeprom_example\bin\Debug\Eeprom_example.pdb
-C:\Users\Admin\source\repos\Eeprom_example\obj\Debug\Eeprom_example.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\Eeprom_example\obj\Debug\Eeprom_example.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\Eeprom_example\obj\Debug\Eeprom_example.exe
-C:\Users\Admin\source\repos\Eeprom_example\obj\Debug\Eeprom_example.pdb

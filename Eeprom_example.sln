@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eeprom_example", "Eeprom_example.csproj", "{167344A9-EEA2-48EF-A624-2B5E9589C200}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEPROM", "D:\Downloads\EEPROM\EEPROM.csproj", "{6A4394BB-1E54-4AFC-B09B-345C874B692B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{167344A9-EEA2-48EF-A624-2B5E9589C200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{167344A9-EEA2-48EF-A624-2B5E9589C200}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{167344A9-EEA2-48EF-A624-2B5E9589C200}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{167344A9-EEA2-48EF-A624-2B5E9589C200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4394BB-1E54-4AFC-B09B-345C874B692B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4394BB-1E54-4AFC-B09B-345C874B692B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4394BB-1E54-4AFC-B09B-345C874B692B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4394BB-1E54-4AFC-B09B-345C874B692B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
